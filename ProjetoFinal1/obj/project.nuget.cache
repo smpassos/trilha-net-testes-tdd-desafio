@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5IMHtrRPLFCx1VXriayaVOgjS9J7Ms9n0T5BNHoRyODxscFuMghG8mhS76+K6MTQLtWQjTs7ROIpBbGbkkiUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\susan\\OneDrive\\Documentos\\Estudo - Cursos\\DIO\\DIO_Bootcamp_C#_2024\\Projetos_Desafio\\trilha-net-testes-tdd-desafio\\ProjetoFinal1\\ProjetoFinal1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\susan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
